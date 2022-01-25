@@ -1,0 +1,8 @@
+Tópicos que foram abordados neste curso
+
+- O que é estrutura de dados
+- Vetores e matrizes
+- O que são registros
+- O que são listas, pilhas e filas
+- O que são ávores, tabela hash e grafos
+

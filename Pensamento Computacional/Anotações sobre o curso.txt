@@ -1,0 +1,7 @@
+ Neste curso aprendi os seguintes tópicos
+
+- Decomposição 
+- Reconhecimento de padrões
+- Abstração
+- Algoritimos
+- Estudos de caso 

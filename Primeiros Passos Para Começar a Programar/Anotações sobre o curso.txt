@@ -1,0 +1,20 @@
+ O que aprendi neste curso foi
+
+- Berço da computação 
+- Instrumentos computacionais
+- Primeiros computadores
+- Era dos computadores pessoais
+- Técnica de lógica em programação
+- O que é um algoritmo
+- Construção de algoritmos
+- Tipologia e variáveis
+- Instruções primitivas
+- Estruturas condicionais e operadores
+- Estruturas de repetição
+- O que são funções
+- Instruções de entrada/saida
+- Como o computador entende o programa
+- Características de um programa
+- Análises de código
+- Paradigmas de programação
+

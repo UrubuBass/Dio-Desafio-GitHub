@@ -1,0 +1,11 @@
+Neste curso aprendi sobre lógica de programação e foram abordados os seguintes assuntos
+
+- O que são algoritimos e pseudocódigos 
+- Aprendendo fluxograma, variáveis e constantes
+- Tomadas de decisões e expressões
+- Como utilizar a concatenação
+- Aprendendo a utilizar uma estrutura de repetição
+- O que são linguagens de programação
+- Como utilizar desvios condicionais e boas práticas de programação
+- Laços de repetição no Portugol
+- Aplicação prática com matrizes e vetores
